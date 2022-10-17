@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgeCalc</string>
+    <string name="date">Selectati Data</string>
+    <string name="age">Caluclator age</string>
+</resources>
